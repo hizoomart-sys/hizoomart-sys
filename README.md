@@ -33,6 +33,12 @@ Full-stack разработчик. Делаю сайты, ИИ-ассистен�
 Авто-раскладка разворотов, редактор книги, подготовка файлов к печати, отслеживание
 заказа до вручения. [Кейс →](https://github.com/hizoomart-sys/fotokniga-case)
 
+### [Agent Workflow Kit](https://github.com/hizoomart-sys/agent-workflow-kit) — плагин для Claude Code
+
+Как я веду разработку с ИИ-агентом: сессии переживают `/clear`, параллельные задачи идут
+в отдельных ветках, а опасные действия и «готово» без проверки блокируются хуками до
+выполнения. Открытый код с тестами. [Репо →](https://github.com/hizoomart-sys/agent-workflow-kit)
+
 **Стек:** Node.js · React · PostgreSQL · Redis · S3 · Nginx · Linux · Playwright
 
 ## Связь
